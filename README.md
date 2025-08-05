@@ -1,4 +1,4 @@
-# Hi there 👋🏻 :octocat:
+# Hi there 👋🏻
 
 I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specializing in **Data Science** at the University of Bordeaux in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/><b>France</b>.
 
@@ -38,7 +38,8 @@ I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specia
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SAS](https://img.shields.io/badge/SAS-0086BE?style=for-the-badge&logo=sas&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0086BE?style=for-the-badge&logo=sas&logoColor=white) 
+ :octocat:
 
 &nbsp;&nbsp;&nbsp;
 
