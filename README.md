@@ -3,9 +3,9 @@
 I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specializing in **Data Science** at the University of Bordeaux (France 🇫🇷).
 💡 Curious, detail-oriented, and passionate about data, I’m exploring how data science can be applied in finance, economics, and risk management.
 
----
+&nbsp;&nbsp;&nbsp;
 
-## 🛠️ Languages & Markup
+### 🛠️ Languages & Markup
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
