@@ -1,4 +1,4 @@
-# 👋 Hi there !
+# Hi there 👋🏻👩🏻‍💻
 
 I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specializing in **Data Science** at the University of Bordeaux (France 🇫🇷).
 💡 Curious, detail-oriented, and passionate about data, I’m exploring how data science can be applied in finance, economics, and risk management.
@@ -31,7 +31,9 @@ I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specia
 ## 📌 What I’m working on
 
 🔍 I’m currently self-learning new tools and technologies to expand my skill set in data & finance.
+
 **Currently learning:**
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
