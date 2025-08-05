@@ -3,7 +3,7 @@
 I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specializing in **Data Science** at the University of Bordeaux (France 🇫🇷).
 💡 Curious, detail-oriented, and passionate about data, I’m exploring how data science can be applied in finance, economics, and risk management.
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 **Languages & Markup**
 
@@ -19,7 +19,7 @@ I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specia
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-&nbsp;&nbsp;
+&nbsp;
 
 **Tools & Environments**
 
@@ -33,6 +33,7 @@ I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specia
 **What I’m working on**
 
 🔍 I’m currently self-learning new tools and technologies to expand my skill set in data & finance.
+I am looking for a **4- to 6-month internship starting in March 2026**
 
 **Currently learning:**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +43,7 @@ I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specia
 
 &nbsp;&nbsp;&nbsp;
 
-## 📫 Contact Me
+## Contact Me 📫 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/celestine-cstl/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celestine.cstl@gmail.com)
