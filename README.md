@@ -1,29 +1,46 @@
-# 👋 Hi there, I'm Célestine (celestine-cstl)
+# 👋 Hi there !
 
-🎓 I’m a student in *Economic and Financial Risk Engineering*, specializing in **Data Science** at the University of Bordeaux (France).
+I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specializing in **Data Science** at the University of Bordeaux (France 🇫🇷).
 💡 Curious, detail-oriented, and passionate about data, I’m exploring how data science can be applied in finance, economics, and risk management.
 
-## 🛠️ Languages & Tools
+---
+
+## 🛠️ Languages & Markup
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-00A300?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SAS](https://img.shields.io/badge/SAS-0086BE?style=for-the-badge&logo=sas&logoColor=white)
 
-**Libraries:** `pandas`, `numpy`, `matplotlib`, `plotly`, `scikit-learn`
+## 🧰 Tools & Environments
 
-**Tools:** Jupyter, Anaconda, VS Code, RStudio
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+
+---
 
 ## 📌 What I’m working on
+
 🔍 I’m currently self-learning new tools and technologies to expand my skill set in data & finance.
-📊 I'm also developing data science projects focused on visualization, modeling, and analysis.
+**Currently learning:**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SAS](https://img.shields.io/badge/SAS-0086BE?style=for-the-badge&logo=sas&logoColor=white)
 
-## 📫 Get in Touch
+---
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/celestine-cstl/))
-- 📧 celestine.cstl@gmail.com
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celestine@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celestine-cstl)
