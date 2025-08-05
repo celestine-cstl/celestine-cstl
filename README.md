@@ -50,5 +50,5 @@ I am looking for a **4- to 6-month internship starting in March 2026**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/celestine-cstl/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celestine.cstl@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celestine-cstl)
-[![Portfolio](https://img.shields.io/badge/Portfolio-MySite-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://celestine-cstl.github.io/webfolio/)
+[![MySite](https://img.shields.io/badge/MySite-_-blue?style=for-the-badge)](https://celestine-cstl.github.io/webfolio/)
 
