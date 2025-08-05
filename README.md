@@ -17,8 +17,8 @@ I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specia
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-00A300?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 &nbsp;
 
