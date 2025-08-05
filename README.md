@@ -39,7 +39,6 @@ I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specia
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SAS](https://img.shields.io/badge/SAS-0086BE?style=for-the-badge&logo=sas&logoColor=white) 
- :octocat:
 
 &nbsp;&nbsp;&nbsp;
 
@@ -49,4 +48,4 @@ I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specia
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celestine.cstl@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celestine-cstl)
 [![MySite](https://img.shields.io/badge/-MySite-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://celestine-cstl.github.io/webfolio/)
-
+:octocat:
