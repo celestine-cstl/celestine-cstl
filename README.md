@@ -31,9 +31,6 @@ I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specia
 
 &nbsp;&nbsp;&nbsp;
 
-**What I’m working on**
-
-🔍 I am looking for a **4- to 6-month internship starting in March 2026**. I’m currently self-learning new tools and technologies to expand my skill set in data & finance.
 **Currently learning:**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
