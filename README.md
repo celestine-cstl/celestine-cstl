@@ -1,6 +1,6 @@
 # Hi there 👋🏻
 
-I’m Cêlestine, a student in *Economic and Financial Risk Engineering*, specializing in **Data Science** at the University of Bordeaux in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/><b>France</b>.
+I’m Cêlestine, an Engineering student in Big Data & Machine Learning at Efrei Paris in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/><b>France</b>.
 
 💡 Curious, detail-oriented, and passionate about data, I’m exploring how data science can be applied in finance, economics, and risk management.
 
