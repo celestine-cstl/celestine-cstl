@@ -42,7 +42,6 @@ I’m Cêlestine, an Engineering student in Big Data & Machine Learning at Efrei
 **Currently learning:**
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-8B6CF0?style=for-the-badge)
 
 &nbsp;&nbsp;&nbsp;
 
